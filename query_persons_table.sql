@@ -1,4 +1,2 @@
 
-
-ALTER TABLE persons
-ADD EMAIL VARCHAR(50) NOT NULL
+SELECT * FROM persons
